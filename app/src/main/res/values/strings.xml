@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Triangle Calculator</string>
+    <string name="menu_homepage">Anasayfa</string>
+    <string name="menu_results">Sonuçlar</string>
+</resources>
